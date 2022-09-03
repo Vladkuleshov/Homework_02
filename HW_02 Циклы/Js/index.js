@@ -1,4 +1,4 @@
-document.write("Прямокутник <br><br>");
+document.write("<br><br>");
 for (let i = 0; i < 10; i++) {
     for ( let j = 0; j < 5; j++) {
         document.write("*")
